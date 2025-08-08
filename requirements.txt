@@ -1,0 +1,24 @@
+# AutoGen Framework - Latest modular structure
+autogen-agentchat==0.5.7
+autogen-ext[openai]==0.5.7
+autogen-core==0.5.7
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Data validation and modeling
+pydantic==2.5.0
+
+# HTTP requests for API calls
+requests==2.31.0
+
+# JSON manipulation
+jsonschema==4.19.2
+
+# Additional utilities
+asyncio==3.4.3
+typing-extensions==4.8.0
+
+# Optional: For enhanced data processing
+pandas==2.1.3
+numpy==1.25.2
