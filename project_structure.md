@@ -1,3 +1,4 @@
+<pre>
 📁 autogen_som_hitl/
 ├── 📄 .env
 ├── 📄 config.py
@@ -20,3 +21,4 @@
 └── 📁 utils/                    ← **Optional: For utility functions**
     ├── 📄 __init__.py
     └── 📄 patterns.py
+</pre>
